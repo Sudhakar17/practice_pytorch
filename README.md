@@ -1,5 +1,7 @@
 # practice_pytorch
 
+Solutions for the exercises of udacity course "Intro to Deep learning with pytorch"
+
 ## Image classification:
 
   1. Multi-Layer Perceptron
